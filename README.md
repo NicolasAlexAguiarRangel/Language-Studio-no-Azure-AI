@@ -39,9 +39,9 @@ Marque a caixa para reconhecer que a demonstração incorrerá em uso e poderá 
 
 >>Revise a saída. Observe que o documento é analisado quanto ao sentimento, assim como cada frase. Selecione a frase 1 para mostrar a análise de sentimento dessa frase.
 <br>
-<img src=" contets/LabFala-fiat2-titulo.jpg">
+<img src="contets/LabFala-fiat2-titulo.jpg">
 <br>
-<img src=" contets/LabFala-fiat-titulo.jpg">
+<img src="contets/LabFala-fiat-titulo.jpg">
 
 
 [Note]
