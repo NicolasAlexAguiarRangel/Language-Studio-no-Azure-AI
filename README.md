@@ -37,10 +37,11 @@ Porque o Fiat Uno é tão bom?
 <img src="contets/LabFala-fiat1-titulo.jpg">
 Marque a caixa para reconhecer que a demonstração incorrerá em uso e poderá incorrer em custos e, em seguida, selecione Run.
 
-
-Revise a saída. Observe que o documento é analisado quanto ao sentimento, assim como cada frase. Selecione a frase 1 para mostrar a análise de sentimento dessa frase.
-
-
+>>Revise a saída. Observe que o documento é analisado quanto ao sentimento, assim como cada frase. Selecione a frase 1 para mostrar a análise de sentimento dessa frase.
+<br>
+<img src=" contets/LabFala-fiat2-titulo.jpg">
+<br>
+<img src=" contets/LabFala-fiat-titulo.jpg">
 
 
 [Note]
