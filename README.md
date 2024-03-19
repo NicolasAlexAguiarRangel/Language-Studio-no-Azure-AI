@@ -41,7 +41,7 @@ Marque a caixa para reconhecer que a demonstração incorrerá em uso e poderá 
 <br>
 <img src="contets/LabFala-fiat2-titulo.jpg">
 <br>
-<img src="contets/LabFala-fiat-titulo.jpg">
+<img src="contets/LabFala-fiat3-titulo.jpg">
 
 
 [Note]
