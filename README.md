@@ -34,7 +34,7 @@ Porque o Fiat Uno é tão bom?
 
 É um carro simples e robusto, com bom valor de revenda e liquidez, mesmo já fora de linha. Tem no acabamento simples sua maior fragilidade, mas no geral não apresenta falhas graves e custosas de reparar. E deve permanecer ainda “bom de mercado” por um bom tempo pela frente. É uma opção a ser considerada.
 
-<img src="/contents/img">
+<img src="contets/LabFala-fiat1-titulo.jpg">
 Marque a caixa para reconhecer que a demonstração incorrerá em uso e poderá incorrer em custos e, em seguida, selecione Run.
 
 
